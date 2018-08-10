@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FFC107</color>
+    <color name="counterColor">#FFFFFF</color>
+    <color name="buttonBackground">#597be8</color>
+    <color name="screenBackground">#000000</color>
+    <color name="primaryText">#eaebed</color>
+    <color name="secondaryText">#757575</color>
+    <color name="textAndIcons">#FFFFFF</color>
+</resources>
