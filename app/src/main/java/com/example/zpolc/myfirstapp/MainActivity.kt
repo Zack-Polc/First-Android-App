@@ -16,12 +16,6 @@ class MainActivity : AppCompatActivity() {
         Ion.with(gif).load("https://78.media.tumblr.com/tumblr_m0v7zqEX2l1r03eaxo1_r1_500.gif")
     }
 
-//    fun toast(view: View) {
-//                                        // (this, message, duration)
-//        val myToast = Toast.makeText(this, "sup", Toast.LENGTH_SHORT)
-//        myToast.show()
-//    }
-
     fun counter(view: View) {
         val showCounterTextView = counter
 
