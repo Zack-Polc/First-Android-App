@@ -2,6 +2,6 @@
     <string name="app_name">My First App</string>
     <string name="counter_text">0</string>
     <string name="left_button_text">Toast</string>
-    <string name="middle_button_text">Tap!</string>
+    <string name="middle_button_text">Reset</string>
     <string name="right_button_text">Random</string>
 </resources>

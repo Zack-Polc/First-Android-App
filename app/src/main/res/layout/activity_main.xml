@@ -34,18 +34,32 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:background="@drawable/roundedbutton"
+        android:onClick="counterReset"
         android:shadowColor="#C7B8B7"
         android:shadowDx="0"
         android:shadowDy="0"
         android:shadowRadius="6"
         android:text="@string/middle_button_text"
         android:textColor="#FFFFFF"
-        android:textSize="32sp"
-        android:onClick="counter"
+        android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/counter" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="213dp"
+        android:layout_height="221dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/counter"
+        app:srcCompat="@mipmap/ic_launcher_round" />
 
 
 </android.support.constraint.ConstraintLayout>
