@@ -5,7 +5,7 @@ apply plugin: 'kotlin-android-extensions'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.example.zpolc.myfirstapp"
+        applicationId "com.something.zpolc.myfirstapp"
         minSdkVersion 24
         targetSdkVersion 28
         versionCode 1
